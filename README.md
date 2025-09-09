@@ -1,1 +1,1 @@
-# Bloomberg-API-
+Bloomberg API _ data licence 
